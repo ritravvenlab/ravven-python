@@ -1,5 +1,5 @@
 # Dr. Kaputa
-# simple argument passing
+# ESD II Python Class Example
 
 class Complex:
   def __init__(self, realpart, imagpart):
@@ -12,4 +12,4 @@ def main():
   print data.i
   
 if __name__ == '__main__':
-  main()
+    main()

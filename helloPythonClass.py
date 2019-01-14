@@ -1,15 +1,15 @@
 # Dr. Kaputa
-# hello world via a class
+# ESD II Python Class Example
 
-class Printer():
-  def __init__(self):
-    self.runCode()
-      
-  def runCode(self): 
-    print ("Hello World\n")
-  
+class MyPrinter():
+    def __init__(self):
+      self.runCode()
+        
+    def runCode(self): 
+      print ("hello world\n")
+    
 def main():
-  printer = Printer()
+  myPrinter = MyPrinter()
   
 if __name__ == '__main__':
-  main()
+    main()

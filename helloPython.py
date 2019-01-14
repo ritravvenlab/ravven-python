@@ -1,4 +1,4 @@
 # Dr. Kaputa
-# basic hello world
+# ESD II Python Class Example
 
 print ("hello world\n")
